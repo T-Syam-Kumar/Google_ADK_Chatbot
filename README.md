@@ -68,7 +68,7 @@ pip install -r requirements.txt
 Navigate to the chatbot directory and run the main script:
 
 ```bash
-python main.py
+adk web
 ```
 
 The chatbot will start and you can begin interacting with it through the terminal.
