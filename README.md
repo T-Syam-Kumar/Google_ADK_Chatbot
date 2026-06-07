@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot using Google ADK
+#  AI Chatbot using Google ADK
 
 An intelligent AI chatbot built using **Google ADK (Agent Development Kit)** that can interact with users and generate intelligent responses.
 This project demonstrates how to build an AI-powered conversational agent using modern agent frameworks.
@@ -7,18 +7,18 @@ The chatbot processes user queries and generates meaningful responses using AI m
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🤖 AI-powered chatbot
-* ⚡ Built using **Google ADK**
-* 💬 Real-time conversational responses
-* 🧠 Intelligent query understanding
-* 📸 Demo screenshot included
-* 🧩 Simple and modular project structure
+*  AI-powered chatbot
+*  Built using **Google ADK**
+*  Real-time conversational responses
+*  Intelligent query understanding
+*  Demo screenshot included
+*  Simple and modular project structure
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Open_AI/
@@ -32,7 +32,7 @@ Open_AI/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Chatbot
+##  Run the Chatbot
 
 Navigate to the chatbot directory and run the main script:
 
@@ -75,7 +75,7 @@ The chatbot will start and you can begin interacting with it through the termina
 
 ---
 
-## 💻 Demo Code
+##  Demo Code
 
 Below is a simple example of how the chatbot interacts with the user.
 
@@ -116,7 +116,7 @@ Below is a screenshot of the chatbot in action.
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * Python
 * Google ADK (Agent Development Kit)
@@ -125,7 +125,7 @@ Below is a screenshot of the chatbot in action.
 
 ---
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 This project helps understand:
 
@@ -137,7 +137,7 @@ This project helps understand:
 
 ---
 
-## 📜 License
+##  License
 
 This project is created for **learning and educational purposes**.
 
