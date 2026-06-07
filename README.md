@@ -143,7 +143,7 @@ This project is created for **learning and educational purposes**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed by **Syam Kumar**
 AI & Machine Learning Enthusiast
