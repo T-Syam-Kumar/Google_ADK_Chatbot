@@ -108,7 +108,7 @@ This script creates a simple chatbot loop where:
 
 ---
 
-## 🖼️ Demo Screenshot
+##  Demo Screenshot
 
 Below is a screenshot of the chatbot in action.
 
