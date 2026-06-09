@@ -4,7 +4,7 @@ An intelligent AI chatbot built using **Google ADK (Agent Development Kit)** tha
 This project demonstrates how to build an AI-powered conversational agent using modern agent frameworks.
 
 The chatbot processes user queries and generates meaningful responses using AI models, making it useful for learning **AI agents, conversational AI, and LLM-based applications**.
-
+ 
 ---
 
 ##  Features
