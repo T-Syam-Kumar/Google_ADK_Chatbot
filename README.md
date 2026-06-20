@@ -146,4 +146,4 @@ This project is created for **learning and educational purposes**.
 ##  Author
 
 Developed by **Syam Kumar**
-AI & Machine Learning Enthusiast
+AI & ML Enthusiast
