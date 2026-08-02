@@ -145,5 +145,5 @@ This project is created for **learning and educational purposes**.
 
 ##  Author
 
-Developed by **Syam Kumar**
+Developed by **Teku Syam Kumar**
 AI & ML Enthusiast
