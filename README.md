@@ -112,7 +112,7 @@ This script creates a simple chatbot loop where:
 
 Below is a screenshot of the chatbot in action.
 
-![Chatbot Demo](Demo.png)
+![Chatbot Demo](Demo_Photo.png)
 
 ---
 
