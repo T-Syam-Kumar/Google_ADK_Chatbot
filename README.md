@@ -134,10 +134,3 @@ This project helps understand:
 * Designing conversational AI systems
 * Structuring AI projects for GitHub
 * Managing Python environments
-
----
-
-##  License
-
-This project is created for **learning and educational purposes**.
-
